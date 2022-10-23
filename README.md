@@ -3,5 +3,7 @@
 <img src="images/instagram.png" width="50px"/></a>
 <a href="https://www.linkedin.com/in/nicolebrodkin/">
 <img src="images/linkedin.png" width="50px"/></a>
+<a href="https://nikoteenie.netlify.app/">
+<img src="images/profile-icon.png" width="50px"/></a>
 
 
