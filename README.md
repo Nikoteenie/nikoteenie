@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/105375963/197368952-4f69e3e0-ec40-40f8-bce6-32b18f407656.gif" />
+<img src="https://user-images.githubusercontent.com/105375963/197371459-af114fd4-c3bd-4351-aeea-348f1e110cf3.gif">
 <a href="https://nikoteenie.netlify.app/">
 <img src="images/profile_icon.png" width="50px"/></a>
 <a href="https://www.instagram.com/nikoteenie/?hl=en">
